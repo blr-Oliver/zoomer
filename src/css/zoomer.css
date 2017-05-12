@@ -1,0 +1,14 @@
+.fullscreen .page-layout-body{
+  background-color: black;
+}
+.page-layout-body {
+  vertical-align: middle;
+}
+
+.zoom-content {
+  width: 400px;
+  height: 200px;
+  background-color: #ffc;
+  margin: 0 auto;
+  transform-origin: center center;
+}
